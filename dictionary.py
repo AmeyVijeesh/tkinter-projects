@@ -33,7 +33,7 @@ def init():
     meaning_font = Font(size=15)
 
 
-def menu():
+def menu(): 
     """The main definition"""
     init()
     global not_available_message
