@@ -4,7 +4,7 @@ An app to research the weather for you.
 
 Features:
 
-- A stylish interface as you see the screenshot in https://github.com/AmeyVijeesh/Weather-App/blob/main/weatherapp.PNG?raw=true
+- A stylish interface as you see the screenshot in https://github.com/AmeyVijeesh/tkinter-projects/blob/main/weather%20app/weatherapp.PNG
 - Accurate results make sure that you get the right information
 
 # Modules needed:
