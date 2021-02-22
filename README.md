@@ -1,18 +1,15 @@
 # Tkinter projects
 
-Projects created by using the Tkinter module for the Graphic User Interface (GUI).
-
-Easy code for beginners to understand.
-
-# What are the modules?
-Tkinter is pre installed in Python.
-
-However, there are some modules which needs to be installed. For that, you can go to www.pypi.org.
-
-# More modules
-If you want diffrent modules: Check this repository of mine:  https://github.com/AmeyVijeesh/PythonProjects
-
-You will find more modules there
+This repository includes some Tkinter projects made by me. All of these are simple to understand. I create apps with good functionality as well as good interfaces. 
 
 
-Shortly, more projects will be uploaded. Still then, stay tuned!
+# Modules needed
+The main module used here is Tkinter, but some of the projects use additional modules. You can always install them from www.pypi.org.
+
+Python 3 is used here. 
+
+```pip install python-tk```
+Tkinter is build-in, but in case you don't have it, install it using this command.
+
+#
+Hope you like these programs! In case you encounter a problem, create an issue
