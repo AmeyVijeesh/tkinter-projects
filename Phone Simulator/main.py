@@ -1,7 +1,7 @@
 from tkinter import *
 import time
 from datetime import datetime
-from application import weather_app, on_screen_keyboard, calculator, web_browser, calendar_app, stopwatch
+from apps import weather_app, on_screen_keyboard, calculator, web_browser, calendar_app, stopwatch
 
 root = Tk()
 root.geometry("366x650")
