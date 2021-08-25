@@ -20,7 +20,7 @@ page2 = Frame(notebook, width=650, height=550, bg='white')
 page3 = Frame(notebook, width=650, height=550, bg='white')
 page4 = Frame(notebook, width=650, height=550, bg='white')
 page5 = Frame(notebook, width=650, height=550, bg='white')
-
+              
 notebook.add(page1, text=f'{"Starters": ^33}')
 notebook.add(page2, text=f'{"Non Veg": ^33}')
 notebook.add(page3, text=f'{"Veg": ^33}')
