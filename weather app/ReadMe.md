@@ -15,8 +15,7 @@ Tkinter module (buildin)
 
 requests library
 
+# Screenshot of the app: 
+![image](https://user-images.githubusercontent.com/74102654/131454237-e28255ab-a297-4100-8e26-b97565a16531.png)
+
 #
-
-Hope you find the code helpful
-
-Thank you!
