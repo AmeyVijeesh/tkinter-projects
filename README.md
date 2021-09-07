@@ -12,4 +12,3 @@ Python 3 is used here.
 Tkinter is build-in, but in case you don't have it, install it using this command.
 
 #
-Hope you like these programs! In case you encounter a problem, create an issue
