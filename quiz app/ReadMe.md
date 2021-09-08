@@ -23,7 +23,7 @@ This program has many features like Login, Levels, Statistics, etc.
 
 # Modules needed:
 
-There are some modules that need to be installed. You can always get them from: www.pypi.org. 
+There are some modules that need to be installed. You can always install them from: www.pypi.org. 
 
 The modules needed are: 
 
