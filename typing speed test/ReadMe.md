@@ -8,4 +8,4 @@ In this, you will see a non-resizeable window containing a marquee, a timer, and
 You will have to type the exact word in the Entry box. If you type correctly, your score increases. If you did not type it correct, the score will not 
 change. If the timer finishes a minute, it will display your final score.
 
-Enjoy!
+#
