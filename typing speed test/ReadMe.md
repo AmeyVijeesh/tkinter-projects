@@ -1,6 +1,6 @@
 # Typing Speed Tester
 
-This repository has a project of a typing speed tester.
+This repository has a project of a simple typing speed tester, in pure Tkinter.
 
 To make this, you need the Tkinter library which will act as its Graphic User Interface (GUI)
 
