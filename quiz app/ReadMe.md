@@ -6,7 +6,7 @@ It is a cut above the others and the program is amazing. You can improve your kn
 
 # Features:
 
-This program has the more features than any other quiz app. Login, Levels, Statistics and much more...
+This program has the more features than any other quiz app. Login, Levels, Statistics, etc.
 
 - With a signup and login system. Your details get saved even when you close the app as it is stored in a database.
 
@@ -15,13 +15,11 @@ This program has the more features than any other quiz app. Login, Levels, Stati
 - Medium
 - Hard
 
-- A beautiful interface with images to make sure that you do not get bored.
+- A beautiful interface with images.
 
-- A timer for the questions to add a little more difficulty
+- A timer for the questions to add a little more difficulty.
 
 - At last, a pie chart is displayed along with your statistics.
-
-What else do you need for a quiz app? Let me know.
 
 # Modules needed:
 
@@ -40,9 +38,3 @@ The modules needed are:
 - matplotlib
 
 # 
-
-Hope you understand the code and if you encounter any issues, please do contact me. 
-
-The code is tested and it does not give out any errors.
-
-Thank you!
