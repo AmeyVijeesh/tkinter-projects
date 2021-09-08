@@ -1,12 +1,12 @@
-# An amazing quiz app 
+# A Tkinter Quiz app
 
-A fantastic quiz app with an amazing interface. All the classic features with a touch of extraordinary. 
+A quiz app made using Tkinter, Sqlite3 and matplotlib.
 
-It is a cut above the others and the program is amazing. You can improve your knowledge with this amazing program!
+Made using pure Python (Tkinter for GUI.)
 
 # Features:
 
-This program has the more features than any other quiz app. Login, Levels, Statistics, etc.
+This program has many features like Login, Levels, Statistics, etc.
 
 - With a signup and login system. Your details get saved even when you close the app as it is stored in a database.
 
