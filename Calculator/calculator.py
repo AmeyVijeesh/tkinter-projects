@@ -1,3 +1,4 @@
+# GUI - pip3 install python-tk
 from tkinter import *
 
 root = Tk()
@@ -56,6 +57,7 @@ entry = Entry(root, width=50, highlightcolor='black', highlightbackground='black
               font=('arial', 25), relief='sunken', textvariable=result)
 entry.pack(ipadx=35, ipady=5)
 
+# Buttons
 button_1 = Button(root, text='1', highlightcolor='black', highlightbackground='black', highlightthickness=4, width=6,
                   relief=FLAT, default='active', font=('calibri', 14), height=2, command=lambda: press(1))
 button_1.place(x=2, y=60)
