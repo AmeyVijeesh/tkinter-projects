@@ -1,15 +1,9 @@
 from tkinter import *
-
 import tkinter as tk
-
 from tkinter import messagebox
-
 from datetime import datetime
-
 import time
-
 import math
-
 import webbrowser
 
 
@@ -334,4 +328,5 @@ clock = MainClass()
 clock.minsize(width=500, height=180)
 clock.minsize(width=500, height=180)
 clock.mainloop()
+
 # End of program
