@@ -9,6 +9,6 @@ The main module used here is Tkinter, but some of the projects use additional mo
 Python 3.8 is used here, in most of the projects. Some of them were made in Python 3.9, although are perfectly compatible with both.
 
 ```pip install python-tk```
-Tkinter is build-in, but in case you don't have it, install it using this command.
+Tkinter is built-in, but in case you don't have it, install it using this command.
 
 #
