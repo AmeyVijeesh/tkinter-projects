@@ -4,6 +4,8 @@ A quiz app made using Tkinter, Sqlite3 and matplotlib.
 
 Made using pure Python (Tkinter for GUI.)
 
+# Note that this app was made using Python 3.9
+
 # Features:
 
 This program has many features like Login, Levels, Statistics, etc.
